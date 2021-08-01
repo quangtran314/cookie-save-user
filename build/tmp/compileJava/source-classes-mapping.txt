@@ -1,0 +1,8 @@
+com/amela/configuration/AppConfiguration.java
+ com.amela.configuration.AppConfiguration
+com/amela/model/User.java
+ com.amela.model.User
+com/amela/configuration/AppInit.java
+ com.amela.configuration.AppInit
+com/amela/controller/LoginController.java
+ com.amela.controller.LoginController
